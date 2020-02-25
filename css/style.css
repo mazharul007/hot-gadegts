@@ -1,0 +1,120 @@
+body {
+    font-family: 'Ubuntu Mono', sans-serif;
+}
+
+.navbar ul {
+    float: right;
+    margin-left: 500px;
+}
+
+.navbar ul>li>a {
+    font-weight: bold;
+}
+
+.buy-btn {
+    /* background-color: linear-gradient(to bottom,deeppink,deeppink); */
+    background-color: black;
+    border-radius: 11px solid black;
+    color: white;
+    cursor: pointer;
+    padding: 9px 25px;
+    border: none;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.cs-bg-color {
+    border-radius: 10px;
+}
+
+.buy-btn {
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    padding: 9px 25px;
+    border: none;
+    font-weight: bold;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.container {
+    margin-bottom: 40px;
+}
+
+p {
+    color: grey;
+    text-align: justify;
+}
+
+.price {
+    color: black;
+}
+
+.bag {
+    background-color: orange;
+}
+
+.watch {
+    background-color: palegreen;
+}
+
+.phones {
+    background-color: blue;
+}
+
+.bag,
+.watch,
+.phones {
+    padding: 10px 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.categories h1 {
+    color: white;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.phones-cat,
+.laptop-cat {
+    padding: 20px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.phones-cat img,
+.laptop-cat img {
+    width: 200px;
+}
+
+.grey-color {
+    background-color: #F8F8F8;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 7px;
+}
+
+#subscriber {
+    background-color: red;
+    height: 200px;
+}
+
+#subscriber h6 {
+    color: lightslategray;
+}
+
+footer p {
+    text-align: center;
+}
